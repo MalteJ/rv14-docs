@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Intro](README.md)
+* [General](README.md)
 * [Empennage](empennage/README.md)
   * [Horizontal Stabilizer](empennage/horizontal-stabilizer.md)
   * [Vertical Stabilizer](empennage/vertical-stabilizer.md)
