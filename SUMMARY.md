@@ -4,7 +4,7 @@
 * [Empennage](empennage/README.md)
   * [Horizontal Stabilizer](empennage/horizontal-stabilizer.md)
   * [Vertical Stabilizer](empennage/vertical-stabilizer.md)
-  * [Tail cone](empennage/tail-cone.md)
+  * [Tail Cone](empennage/tail-cone.md)
 * [Wings](wings.md)
 * [Fuselage](fuselage.md)
 * [Finishing](finishing.md)
