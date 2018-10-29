@@ -8,5 +8,5 @@ The first step in building the RV-14 is making the vertical stabilizer. That mea
 
 ![Riveting the vertical stabilizer](../.gitbook/assets/20181028_223036.jpg)
 
-
+![Vertical Stabilizer riveted and waiting for inspection by the examiner](../.gitbook/assets/20181029_213843.jpg)
 
