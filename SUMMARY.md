@@ -2,8 +2,8 @@
 
 * [General](README.md)
 * [Empennage](empennage/README.md)
-  * [Horizontal Stabilizer](empennage/horizontal-stabilizer.md)
   * [Vertical Stabilizer](empennage/vertical-stabilizer.md)
+  * [Horizontal Stabilizer](empennage/horizontal-stabilizer.md)
   * [Tail Cone](empennage/tail-cone.md)
 * [Wings](wings.md)
 * [Fuselage](fuselage.md)
