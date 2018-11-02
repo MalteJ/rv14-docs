@@ -6,6 +6,9 @@
 
 #### Work Tables
 
+* 250 x 125 cm, 90cm high
+* 260 x 80 cm, 90cm high
+
 {% embed url="http://www.eaa1000.av.org/technicl/worktabl/worktabl.htm" %}
 
 #### Tools
