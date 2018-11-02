@@ -13,8 +13,15 @@
 
 #### Tools
 
-* 100l air compressor with 8 bar \(26gal / 120 psi\)
-* DRDT-2
-* air drill
-* rivet gun
+* Bosch cordless drill
+* Bosch bench grinder
+* 100l air compressor 69dB with 8 bar \(26gal / 120 psi\)
+* [The Gold Standard of RV Tool Kits](http://planetools.com/products/the-gold-standard-of-rv-tool-kits)
+  * DRDT-2
+  * air drill
+  * rivet gun
+  * rivet squeezer
+  * pneumatic cleco pliers
+  * 500 clecos
+  * ...
 
