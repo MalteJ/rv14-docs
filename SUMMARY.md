@@ -3,7 +3,7 @@
 * [The Mission](README.md)
 * [General](general/README.md)
   * [Workshop](general/workshop.md)
-  * [Priming](general/priming.md)
+  * [Corrosion Protection](general/priming.md)
 * [Empennage](empennage/README.md)
   * [Vertical Stabilizer](empennage/vertical-stabilizer.md)
   * [Rudder](empennage/rudder.md)
