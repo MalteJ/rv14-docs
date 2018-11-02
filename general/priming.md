@@ -1,8 +1,6 @@
----
-description: Why I do not prime
----
-
 # Corrosion Protection
+
+#### Why I do not prime
 
 Corrosion protection is a hot topic in the airplane builder scene. Especially when you operate your plane in salty air or you do not have a hangar space you should care about corrosion protection. As I am based in Munich, Germany, my RV-14 will not get lots of contact with salty air. Also I am going to store the plane in a hangar. The expected air time will not be more than a few hundred hours per year. So even without advanced corrosion protection my RV-14 should not get corrosion problems for a very long time.
 
