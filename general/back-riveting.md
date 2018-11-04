@@ -14,7 +14,5 @@ I have tried to do that with my tungsten bucking bar as back riveting plate. It 
 
 ![When trying to remove a dent I have really fucked up the skin.](../.gitbook/assets/20181104_173921.jpg)
 
-I think I will replace it. Shouldn't be that expensive but it will take some time until I can finish my rudder :\(
-
 I have ordered a piece of stainless V2A steel \(450 x 120 x 8mm - about 3.5kg\) that I will use as a back riveting plate in the future.
 
