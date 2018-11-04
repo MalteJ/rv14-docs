@@ -25,3 +25,5 @@
   * 500 clecos
   * ...
 
+**Note: The "Gold Standard of RV Tool Kits" is missing a back riveting plate!** I have ordered a 450 x 120 x 8 mm piece of stainless V2A steel at a local metal store instead. See also [Back Riveting](back-riveting.md).
+
