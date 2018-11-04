@@ -1,9 +1,10 @@
 # Table of contents
 
-* [The Mission](README.md)
-* [General](general/README.md)
+* [Home](README.md)
+* [General Thoughts](general/README.md)
   * [Workshop](general/workshop.md)
   * [Corrosion Protection](general/priming.md)
+  * [Back Riveting](general/back-riveting.md)
 * [Empennage](empennage/README.md)
   * [Vertical Stabilizer](empennage/vertical-stabilizer.md)
   * [Rudder](empennage/rudder.md)
