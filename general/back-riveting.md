@@ -1,5 +1,5 @@
 ---
-description: How I've fucked up my rudder skin
+description: or how I've fucked up my rudder skin...
 ---
 
 # Back Riveting
