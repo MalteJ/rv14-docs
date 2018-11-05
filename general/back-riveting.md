@@ -1,7 +1,3 @@
----
-description: or how I've fucked up my rudder skin...
----
-
 # Back Riveting
 
 _**DO NOT BACK RIVET WITHOUT A BACK RIVETING PLATE!**_
@@ -10,9 +6,9 @@ _**DO NOT BACK RIVET WITHOUT A BACK RIVETING PLATE!**_
 
 ![Back Riveting](../.gitbook/assets/20181104_180103.jpg)
 
-I have tried to do that with my tungsten bucking bar as back riveting plate. It works! But it is a bit small. So there will come the one rivet where the bucking bar is not positioned perfect beneath your rivet. The moment you will shoot the rivet gun you will make dents into your skin.
+I have tried to do that with my tungsten bucking bar as back riveting plate. It works! But it is a bit small. So there will come the one rivet where the bucking bar is not positioned perfectly beneath your rivet. The moment you will shoot the rivet gun you will make dents into your skin.
 
-![When trying to remove a dent I have really fucked up the skin.](../.gitbook/assets/20181104_173921.jpg)
+![When trying to remove a dent I have fucked up the skin.](../.gitbook/assets/20181104_173921.jpg)
 
 I have ordered a piece of stainless V2A steel \(450 x 120 x 8mm - about 3.5kg\) that I will use as a back riveting plate in the future.
 
