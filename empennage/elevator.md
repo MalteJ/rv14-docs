@@ -1,6 +1,8 @@
 # Elevator
 
-The elevator has a lot of parts. I started building the elevator end of November 2018. Unfortunately I could not really work on it in December. In January I have totally forgotten what I've already done so I had to check every step of the build and try to remember.
+The elevator has a lot of parts. I started building the elevator end of November 2018. Unfortunately I could not really work on it in December. In January I had totally forgotten what I've already done so I had to check every step of the build and try to remember.
+
+Learning: Mark in the build manual the steps I have completed.
 
 ![Elevator interior build up](../.gitbook/assets/20181208_215742.jpg)
 
