@@ -2,6 +2,8 @@
 
 The first step in building the RV-14 is making the vertical stabilizer. That means clecoing everything together, final drill the holes, uncleco everything, deburring, dimpling, recleco and then riveting.
 
+Plans: [https://www.vansaircraft.com/wp-content/uploads/2019/01/RV-14\_06.pdf](https://www.vansaircraft.com/wp-content/uploads/2019/01/RV-14_06.pdf)
+
 ![Clecoing the rib web and final drilling](../.gitbook/assets/20181028_003151.jpg)
 
 ![Assembled vertical stabilizer](../.gitbook/assets/20181028_141402.jpg)

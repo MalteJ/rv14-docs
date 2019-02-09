@@ -12,3 +12,7 @@ I have tried to do that with my tungsten bucking bar as back riveting plate. It 
 
 I have ordered a piece of stainless V2A steel \(450 x 120 x 8mm - about 3.5kg\) that I will use as a back riveting plate in the future.
 
+![Back rivetting the elevator skins with the new back rivetting plate.](../.gitbook/assets/20190209_215507.jpg)
+
+My new back riveting plate has arrived and I had the chance to try it on my elevator skins. It works really great! The only thing I have noticed: When you position it in the middle of the table the table itself dampens the rivet gun's hits. So I do the back riveting near the table's stiffeners.
+
