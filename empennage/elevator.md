@@ -12,5 +12,7 @@ Plans: [https://www.vansaircraft.com/wp-content/uploads/2019/01/RV-14\_09.pdf](h
 
 ![Back riveting the ribs to the elevator skin with my new back rivetting plate - it works great!](../.gitbook/assets/20190209_215507.jpg)
 
+![DImpling the elevator&apos;s trailing edge.](../.gitbook/assets/20190212_210217.jpg)
+
 ![Clecoing the elevator trailing edge after lots of dimpling and counter sinking. And it looks quite satisfactorily!](../.gitbook/assets/20190212_215048.jpg)
 
