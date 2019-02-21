@@ -6,3 +6,5 @@ It turns out that my wings container has missed the ship because of the famous p
 
 ![TORONTO EXPRESS by Hapag-Lloyd](.gitbook/assets/847688.jpg)
 
+![TORONTO EXPRESS just before the atlantic crossing](.gitbook/assets/bildschirmfoto-vom-2019-02-21-13-15-53.png)
+
