@@ -1,10 +1,6 @@
----
-description: >-
-  In October 2018 I have finally pulled the trigger and ordered a Van's RV-14
-  empennage and wings kit.
----
-
 # Home
+
+In October 2018 I have finally pulled the trigger and ordered a [**Van's RV-14**](https://www.vansaircraft.com/rv-14/) empennage and wings kit.
 
 ![](.gitbook/assets/rv14.png)
 
