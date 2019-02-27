@@ -2,6 +2,7 @@
 
 * [Home](README.md)
 * [General Thoughts](general/README.md)
+  * [Made in Germany](general/made-in-germany.md)
   * [Workshop](general/workshop.md)
   * [Corrosion Protection](general/priming.md)
   * [Back Riveting](general/back-riveting.md)
