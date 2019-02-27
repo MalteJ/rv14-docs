@@ -38,6 +38,10 @@ The trailing edge is a wedge that sits between the upper and the lower skin. It 
 
 The skins will then get slightly broken and dimpled so you have flush rivets in the end and the skin lies tightly on the trailing edge.
 
+The standard male dimple die is a little bit too big and would damage the bend in the skin. Therefore you have to remove a bit of the die. Unfortunately this makes the dimple die useless for normal dimpling as you will always have marks from the removed area on your skins. So I had to reorder dimple dies from Cleaveland \(man, they're expensive!\).
+
+![Modifying the male dimple die so it does not damage the skin&apos;s bend](../.gitbook/assets/bildschirmfoto-vom-2019-02-27-15-31-22.png)
+
 ![DImpling the elevator&apos;s trailing edge.](../.gitbook/assets/20190212_210217.jpg)
 
 ![Clecoing the elevator trailing edge after lots of dimpling and counter sinking. And it looks quite satisfactorily!](../.gitbook/assets/20190212_215048.jpg)
